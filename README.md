@@ -30,8 +30,8 @@ Additionally the following data files are needed for supplementary_analysis.m
 
 The following MATLAB versions and packages were used, and may need to be installed before running
 
-MATLAB                                                Version 24.1        (R2024a)
-MATLAB Compiler                                       Version 24.1        (R2024a)
-MATLAB Compiler SDK                                   Version 24.1        (R2024a)
-Parallel Computing Toolbox                            Version 24.1        (R2024a) (?)
-Statistics and Machine Learning Toolbox               Version 24.1        (R2024a)
+- MATLAB                                                Version 24.1        (R2024a)
+- MATLAB Compiler                                       Version 24.1        (R2024a)
+- MATLAB Compiler SDK                                   Version 24.1        (R2024a)
+- Parallel Computing Toolbox                            Version 24.1        (R2024a)
+- Statistics and Machine Learning Toolbox               Version 24.1        (R2024a)
